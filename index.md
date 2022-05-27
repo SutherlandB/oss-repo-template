@@ -1,8 +1,5 @@
-# Open Source Software - Summer 2019
-## (( Your Name Here ))
-
-## Bio
-(( Put a little bit about yourself here! Also include a photo. ))
-
-## Lab Reports
-[Lab 1](labs/lab-01/report.md)
+## Name: Sutherland Brown; preferred name is South. 
+### email: browns15@rpi.edu
+### github account: SutherlandB
+### Discord handle: South#1416
+Photo of South ![Suthy](images/img1.jpg)
