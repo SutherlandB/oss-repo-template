@@ -2,4 +2,4 @@
 ### email: browns15@rpi.edu
 ### github account: SutherlandB
 ### Discord handle: South#1416
-Photo of South ![Suthy](images/img1.jpg)
+Photo of South ![Suthy](image/img1.jpg)
