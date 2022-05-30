@@ -1,5 +1,5 @@
 # Lab 01 Report - Introduction to Open Source Software
-##1. Join the discord: Discord screenshot ![Sc](image/discImage)
+##1. Join the discord: Discord screenshot ![Sc](image/discImage.png)
 ##2. Two suggestions for How to answer questions in helpful way:
 Suggestions: 
 Thank those that answered your question, more likely to get another answer from them down the line.
