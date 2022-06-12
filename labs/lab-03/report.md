@@ -84,9 +84,9 @@ Master, gh-pages, change-focus, update-dependencies-web-app, clippy-fix, Key_Pal
 
 
 ## make file success:
-![create](images/createLatex.png)
+![create](images/createLatex.PNG)
 ## file made:
-![makeLatex](images/whereFile.png)
+![makeLatex](images/whereFile.PNG)
 
 
 
