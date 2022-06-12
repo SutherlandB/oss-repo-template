@@ -73,7 +73,7 @@ First commit:
 04/05/2017    https://github.com/Bram-Hub/aris/commit/69945fedb2c523904d3d0def66b4d7dfab65de83
 Current Branches:
 Master, gh-pages, change-focus, update-dependencies-web-app, clippy-fix, Key_Palette, proof_generate_solver, Disjunctive_syllogism
-![img](aris.png)
+![img](images/aris.png)
 
 
 
