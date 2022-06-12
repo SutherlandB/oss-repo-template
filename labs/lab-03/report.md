@@ -39,14 +39,14 @@ the current branches: * master
   remotes/origin/meetingcard-fixes
   remotes/origin/saml-auth
   remotes/origin/tutorpfpicstor
-  ![ar](images/gourceAr.png)
+  ![ar](images/ar.png)
 # Clickbait extension
 Contributors: 2
 Lines of Code: 42597
 First Commit: 1-22-2019
 Latest Commit: 4-17-2019
 Current Branch: master
-![click](images/gourceClick.png)
+![click](images/ak.png)
 # Catan-AI project
 https://github.com/justinchen673/Catan-AI
 number of contributors:3
@@ -60,7 +60,7 @@ Current branches:
         Empty_bot
         CatanReasearch
         Simple_Bot
-![gource](images/Catan.png)
+![gource](images/Ca.png)
 # ARIS
 Contributers:
 17
