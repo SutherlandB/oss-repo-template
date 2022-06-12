@@ -10,3 +10,13 @@ Java anagram open source project:
 3. First commit: 7/30/2007 
 4. Last commit: 1/29/2019
 5. Branches: Not shown
+
+## I added the wiki page 
+## latex images
+![first](images/firstEx.png)
+![second](images/secondEx.png)
+
+
+
+## full path for latex file
+/home/south/Documents/Repos/CSCI-4470-OpenSource/Modules/01.Introduction/History/build/latex
