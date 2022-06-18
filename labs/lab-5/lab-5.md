@@ -38,7 +38,7 @@ set(CMAKE_CXX_STANDARD 11)
 set(CMAKE_CXX_STANDARD_REQUIRED True)
 
 Screenshots of Tutorial running:
-![step1](lab-5/images/step1sc.png)
+![step1](images/step1sc.png)
 
 ## Step 2:
 Tutorial.cxx:
@@ -110,9 +110,9 @@ target_include_directories(Tutorial PUBLIC
 
 
 Screenshot of output:
-Tutorial: ![step20](lab-5/images/2tut0.PNG)
-Tutorial 10: ![step21](lab-5/images/2tut10.PNG)
-Tutorial 429: ![step22](lab-5/images/2tut49.PNG)
+Tutorial: ![step20](images/2tut0.PNG)
+Tutorial 10: ![step21](images/2tut10.PNG)
+Tutorial 429: ![step22](images/2tut49.PNG)
 
 ##  Step 3:
 CMakeLists.txt:
@@ -158,9 +158,9 @@ target_include_directories(MathFunctions
         )
 
 Screenshot of output:
-Tutorial: ![step20](lab-5/images/2tut0.PNG)
-Tutorial 10: ![step21](lab-5/images/2tut10.PNG)
-Tutorial 429: ![step22](lab-5/images/2tut49.PNG)
+Tutorial: ![step20](images/2tut0.PNG)
+Tutorial 10: ![step21](images/2tut10.PNG)
+Tutorial 429: ![step22](images/2tut49.PNG)
 
 
 ## Step 4:
@@ -245,7 +245,7 @@ install(TARGETS MathFunctions DESTINATION lib)
 install(FILES MathFunctions.h DESTINATION include)
 
 Screenshot of output:
-![ctest](lab-5/images/ctestW.png)
+![ctest](images/ctestW.png)
 
 ## Step 5:
 
@@ -357,5 +357,4 @@ install(FILES MathFunctions.h DESTINATION include)
 
 
 Screenshot of output:
-![step5](lab-5/images/Step5.png)
-
+![step5](images/Step5.png)
