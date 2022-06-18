@@ -4,6 +4,7 @@ Java anagram open source project:
 3.  First commit: (https://github.com/tdurkin18/Anagrams/commit/e305ea4d0119cf2f2c3bcbd2503ac0fee96438e9)
 4.  Last commit: https://github.com/tdurkin18/Anagrams/commit/695e3ba8e9d68a1f824d8692d92e920e147edbf3
 5.  5 branches: Master, Jakev1, sameletters, gameBoard, and correct
+![img](images/lmao.png)
 ## Gitstats differences:
 1. Number of contributors: 30
 2. Number of lines: 3924
@@ -72,7 +73,7 @@ First commit:
 04/05/2017    https://github.com/Bram-Hub/aris/commit/69945fedb2c523904d3d0def66b4d7dfab65de83
 Current Branches:
 Master, gh-pages, change-focus, update-dependencies-web-app, clippy-fix, Key_Palette, proof_generate_solver, Disjunctive_syllogism
-![img](aris.png)
+![img](images/aris.png)
 
 
 
@@ -83,9 +84,9 @@ Master, gh-pages, change-focus, update-dependencies-web-app, clippy-fix, Key_Pal
 
 
 ## make file success:
-![create](images/createLatex.png)
+![create](images/createLatex.PNG)
 ## file made:
-![makeLatex](images/whereFile.png)
+![makeLatex](images/whereFile.PNG)
 
 
 
