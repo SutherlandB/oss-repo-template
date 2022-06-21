@@ -350,7 +350,7 @@ if(HAVE_LOG AND HAVE_EXP)
             PRIVATE "HAVE_LOG" "HAVE_EXP")
 endif()
 
- install rules
+install rules
 install(TARGETS MathFunctions DESTINATION lib)
 install(FILES MathFunctions.h DESTINATION include)
 
@@ -358,3 +358,10 @@ install(FILES MathFunctions.h DESTINATION include)
 
 Screenshot of output:
 ![step5](images/Step5.png)
+			
+## Makefile
+Manual makefile with outputs screenshot:
+![makefile](images/makefile.png)
+
+## CMake file
+			
