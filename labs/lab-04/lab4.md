@@ -19,11 +19,11 @@ I do agree with the claim because of Gopher's lack of support for hypertext. Thi
 Website | License Present | License
 ---------|:----------|:-------
 https://github.com/rcos/Observatory | Yes | Two Clause BSD License https://en.wikipedia.org/wiki/ISC_license
----------|:----------|:-------
-https://github.com/rcos/Venue2| Yes | https://opensource.org/licenses/MIT
----------|:----------|:-------
-https://github.com/rcos/rpi-offcampus-housing | Yes | https://opensource.org/licenses/MIT
----------|:----------|:-------
+
+https://github.com/rcos/Venue2| Yes | MIT License https://opensource.org/licenses/MIT
+
+https://github.com/rcos/rpi-offcampus-housing | Yes | MIT License https://opensource.org/licenses/MIT
+
 https://github.com/tdurkin18/Anagrams | No | 
----------|:----------|:-------
+
 https://github.com/kool814/clickbaitchromeextension | No | 
