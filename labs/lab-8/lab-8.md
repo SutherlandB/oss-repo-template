@@ -1,7 +1,7 @@
-Checkpoint 1:
+# Checkpoint 1:
 ![check1](images/buildComplete.png)
 
-Checkpoint 2: Find the Nightly and Experimental sections and look at some of the submissions. How can you see what tests were run for a particular submission?
+# Checkpoint 2: Find the Nightly and Experimental sections and look at some of the submissions. How can you see what tests were run for a particular submission?
 
 By looking at the test tab on the dashboard, I was able to tell how many tests were passed or failed. 
 By clicking on the number that was shown, the specific tests that were ran on the build was shown. 
@@ -20,11 +20,11 @@ I chose to do the nightly-cmake-macos_arm64_xcode build. The dashboard is clean 
 there were no warnings for building. The error in its test 
 was compiling a headerSet and that only makes the build slightly unstable.
 ![check2](images/testComplete.png)
-Checkpoint 3:
+# Checkpoint 3:
 testfail: ![testFail](images/testfail.png)
 Change: ![change](images/change.png)
 test success: ![test_success](images/testPass.png)
-Checkpoint 4:
+# Checkpoint 4:
 Pull request: ![peq](images/preq.png)
 workflows: ![workflows](images/workflows.png)
 
