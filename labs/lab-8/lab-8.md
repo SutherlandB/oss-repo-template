@@ -1,3 +1,6 @@
+Checkpoint 1:
+![check1](images/buildComplete.png)
+
 Checkpoint 2: Find the Nightly and Experimental sections and look at some of the submissions. How can you see what tests were run for a particular submission?
 
 By looking at the test tab on the dashboard, I was able to tell how many tests were passed or failed. 
@@ -16,5 +19,12 @@ How clean is the dashboard? Are there any errors that you need to be concerned w
 I chose to do the nightly-cmake-macos_arm64_xcode build. The dashboard is clean and easily readable. There were some minor issues with a test but 
 there were no warnings for building. The error in its test 
 was compiling a headerSet and that only makes the build slightly unstable.
+![check2](images/testComplete.png)
+Checkpoint 3:
+testfail: ![testFail](images/testfail.png)
+Change: ![change](images/change.png)
+test success: ![test_success](images/
 
 
+
+ 
