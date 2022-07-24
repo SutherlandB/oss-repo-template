@@ -4,19 +4,19 @@
 ![cow](images/mooCow.png)
 # Check02: 
 Database: Mongo
-![MongoDB](images/mongoDB.png)
+![MongoDB](images/mongoDB.PNG)
 RocketChat:
-![rocketChat](images/rocketChat.png)
+![rocketChat](images/rocketChat.PNG)
 # Check03:
 Creating docker file:
-![dockerBuld](images/buildDoc.png)
+![dockerBuld](images/buildDoc.PNG)
 Message appeared on port 5000:
-![message](images/message.png)
+![message](images/message.PNG)
 # Check04:
 Creating docker file:
-![createDoc](images/createDoc.png)
+![createDoc](images/createDoc.PNG)
 First hello message:
-![hello](images/hello.png)
+![hello](images/hello.PNG)
 Deletion of message:
-![first](images/longermsg.png)
-![second](images/shortmsg.png)
+![first](images/longermsg.PNG)
+![second](images/shortmsg.PNG)
