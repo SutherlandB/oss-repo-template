@@ -27,10 +27,10 @@ removing plankton
 first document
 ![image](images/check2pt8.PNG)
 
-query for 1988 film
+1988 search
 ![image](images/check2pt9.PNG)
 
-query for all 1980's movies
+1980s search
 ![image](images/check2pt10.PNG)
 
 Replication:
@@ -48,7 +48,7 @@ Creating document:
 Adding a new document:
 ![image](images/check3pt4.PNG)
 
-adding artwork:
+artwork:
 ![image](images/check3pt5.PNG)
 
 replicate:
