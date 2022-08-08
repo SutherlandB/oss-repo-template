@@ -2,7 +2,7 @@
 
 # Checkpoint 1
 
-![checkpoint 1](images/checkpoint1.png)
+![checkpoint 1](images/checkpoint1_pt1.png)
 
 # Checkpoint 2
 
