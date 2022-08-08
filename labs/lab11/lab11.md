@@ -10,7 +10,9 @@
 
 ![checkpoint2_4](images/checkpoint2_pt4.png)
 
-![checkpoint2_3](images/checkpoint2_pt3.png)
+![checkpoint2_3](images/checkpoint2_pt31.png)
+
+![checkpoint2_3](images/checkpoint2_pt32.png)
 
 ![checkpoint2_2](images/checkpoint2_pt2.png)
 
